@@ -1,0 +1,12 @@
+com\apeiron\igor\application\security\config\SecurityConfig.class
+com\apeiron\igor\application\security\filters\TokenAuthFilter.class
+com\apeiron\igor\application\security\details\UserDetailsImpl.class
+com\apeiron\igor\application\security\details\UserDetailsServiceImpl.class
+com\apeiron\igor\application\AppInitializer.class
+com\apeiron\igor\application\security\authentications\TokenAuthentication.class
+com\apeiron\igor\application\SpringFoxConfig.class
+com\apeiron\igor\application\WebConfiguration.class
+com\apeiron\igor\application\JpaConfiguration.class
+com\apeiron\igor\application\security\provider\TokenAuthenticationProvider.class
+com\apeiron\igor\application\GigaspaceConfig.class
+com\apeiron\igor\application\WebSocketConfig.class

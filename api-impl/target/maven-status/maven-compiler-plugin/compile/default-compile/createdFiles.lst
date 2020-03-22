@@ -1,0 +1,3 @@
+com\apeiron\igor\api\impl\UsersController.class
+com\apeiron\igor\api\impl\TokenController.class
+com\apeiron\igor\api\impl\TestSecurityController.class

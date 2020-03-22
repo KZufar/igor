@@ -1,0 +1,5 @@
+com\apeiron\igor\service\EchoWebSocketService.class
+com\apeiron\igor\service\LoginService.class
+com\apeiron\igor\service\UsersServiceImpl.class
+com\apeiron\igor\service\LoginServiceImpl.class
+com\apeiron\igor\service\UsersService.class
